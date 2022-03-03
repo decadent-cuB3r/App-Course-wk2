@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from "react-native";
 const Header = () => {
   return (
       <View style={styles.headerStyle}>
-        <Text style={styles.textStyle}>Albums</Text>
+        <Text style={styles.textStyle}>喜愛的獨立樂團</Text>
       </View>
   );
 };
